@@ -69,12 +69,8 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 
 ### All About Artix-7 FPGA:
-[![Artix-7 FPGA Repository](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Artix-7-fpga&theme=radical)](https://github.com/AdithyaVenkataRamana/Artix-7-fpga)
+[![Artix-7 FPGA Repository]Explore my repository dedicated to **Artix-7 FPGA**(https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Artix-7-fpga&theme=radical)](https://github.com/AdithyaVenkataRamana/Artix-7-fpga)
 
-Explore my repository dedicated to **Artix-7 FPGA**, a powerful platform for FPGA enthusiasts and professionals. This repository includes:  
-- **Comprehensive Design Files:** RTL code and examples tailored for Artix-7.
-- **Step-by-Step Tutorials:** Learn how to configure and program the FPGA.
-- **Projects and Applications:** Real-world use cases showcasing Artix-7's capabilities.
 
 ---
 
