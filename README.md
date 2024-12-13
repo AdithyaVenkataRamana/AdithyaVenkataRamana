@@ -6,12 +6,21 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 ## 🚀 About Me:
 
--## 🤩 What Inspires Me:
+- 🔭 I’m currently working on **RTL design and verification using VHDL, Verilog, and System Verilog.**
 
-🌌 **Infinite Possibilities:** The ability to design hardware that powers innovation across industries.  
-🔍 **Precision and Perfection:** The pursuit of flawless functionality in every circuit.  
-🌱 **Continuous Growth:** Learning new technologies to stay at the cutting edge of VLSI and FPGA development.  
-🤝 **Collaboration:** Building great designs together with like-minded innovators.  
+- 🌱 I’m currently learning **System Verilog for testbench development, UVM methodologies, and FPGA optimization techniques.**
+
+- 👯 I’m looking to collaborate on **VLSI projects involving digital design, ASIC workflows, and advanced verification methodologies.**
+
+- 🤝 I’m looking for help with **Open-source VLSI projects, System Verilog verification frameworks.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AdithyaVenkataRamana](https://github.com/AdithyaVenkataRamana)
+
+- 💬 Ask me about **VLSI design, FPGA programming, RTL coding (VHDL/Verilog), and digital system design.**
+
+- 📫 How to reach me **adithyavenkataramana022@gmail.com**
+
+- ⚡ Fun fact **I think debugging VHDL code is more exciting than solving puzzles!**
 
 ---
 
