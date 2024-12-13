@@ -49,20 +49,7 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 ---
 
-## 🎯 Let's Collaborate and Connect:
 
-### 📧 Got an idea or a project?
-Feel free to drop me an email at: **adithya.fpga@gmail.com** ✉️
-
-### 🤖 Join me in the FPGA & VLSI world:
-- Share your innovative FPGA projects and collaborate.
-- Explore ideas for cutting-edge RTL designs.
-- Engage in discussions about futuristic VLSI technologies.
-
-### 🌍 Fun Fact:
-Did you know that an FPGA can be reprogrammed endlessly? It's like LEGOs for hardware enthusiasts! 🧩
-
----
 
 ## 🎨 Fun VLSI Vibes:
 
