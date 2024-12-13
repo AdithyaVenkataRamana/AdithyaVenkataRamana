@@ -30,11 +30,12 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 ---
 
-## 🤩 What Drives Me:
+## 🤩 What Inspires Me:
 
-🚦 Building cutting-edge designs for the next generation of hardware.  
-⚡ Solving complex problems with elegant RTL designs.  
-💡 Pushing the boundaries of technology with every project.  
+🌌 **Infinite Possibilities:** The ability to design hardware that powers innovation across industries.  
+🔍 **Precision and Perfection:** The pursuit of flawless functionality in every circuit.  
+🌱 **Continuous Growth:** Learning new technologies to stay at the cutting edge of VLSI and FPGA development.  
+🤝 **Collaboration:** Building great designs together with like-minded innovators.  
 
 ---
 
