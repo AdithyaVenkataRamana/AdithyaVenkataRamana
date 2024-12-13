@@ -67,7 +67,8 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 ## 📂 Featured Repositories:
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name&theme=radical)]([https://github.com/yourusername/your-repo-name](https://github.com/AdithyaVenkataRamana/Artix-7-fpga))
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name&theme=radical)](https://github.com/AdithyaVenkataRamana/AdithyaVenkataRamana-Artix-7-fpga)
 ---
 
 ## 🌀 Random VLSI Fun:
