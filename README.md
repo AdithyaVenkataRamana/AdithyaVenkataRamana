@@ -15,10 +15,9 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 ## 🛠️ Tech Stack:
 
-![FPGA](![image](https://github.com/user-attachments/assets/e8449408-0004-483d-9138-2cdf3ea9d04f))
-![Verilog](![image](https://github.com/user-attachments/assets/c6b9791f-8e34-46f6-a6c3-865d3c4dbb58)
-)
-![SystemVerilog](![image](https://github.com/user-attachments/assets/7bb7fbd5-4399-4514-a56d-62dd2fca3dc6))
+![FPGA](https://img.shields.io/badge/FPGA-Programming-green?style=for-the-badge&logo=xilinx&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-Design-blue?style=for-the-badge&logo=intel&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Coding-orange?style=for-the-badge)
 
 ---
 
