@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 - 🤝 I’m looking for help with **Open-source VLSI projects, System Verilog verification frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdithyaVenkataRamana](https://github.com/AdithyaVenkataRamana)
+- 👨‍💻 All of my projects are available at [https://github.com/AdithyaVenkataRamana]([https://github.com/AdithyaVenkataRamana](https://github.com/AdithyaVenkataRamana?tab=repositories))
 
 - 💬 Ask me about **VLSI design, FPGA programming, RTL coding (VHDL/Verilog), and digital system design.**
 
