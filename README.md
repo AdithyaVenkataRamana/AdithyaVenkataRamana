@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 ---
 
-## 📊 GitHub Stats:
 
 ## 📊 GitHub Stats:
 
