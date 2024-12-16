@@ -36,7 +36,9 @@ Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design
 
 ## 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
+
+![AdithyaVenkataRamana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithyaVenkataRamana&show_icons=true&theme=radical)
 
 ---
 
