@@ -1,4 +1,4 @@
-# Hi there, I'm a VLSI VLSI Enthusiast! 👋
+# Hi there, I'm a VLSI Enthusiast! 👋
 
 Welcome to my GitHub profile! I'm a passionate **FPGA Programmer**, **RTL Design Explorer**, and a **Hardware Geek** who loves diving deep into **Verilog**, **System Verilog**, and the fascinating world of **VLSI Design**. 🧠💡
 
