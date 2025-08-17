@@ -60,15 +60,17 @@ I’m a passionate digital design enthusiast specializing in **RTL design**, **h
 
 ---
 
+
 ##  Featured Projects
 
-###  [Artix-7 FPGA Development](https://github.com/AdithyaVenkataRamana/Artix-7-fpga)
+###  [Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor](https://github.com/AdithyaVenkataRamana/Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Artix-7-fpga&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor&theme=tokyonight" width="400">
 </p>
 
-This repo documents my exploration of **FPGA development** on the **Artix-7 platform**, including serial interfaces, custom ALUs, and optimized finite state machines.
+This repo documents my work on designing and implementing a **32-bit multi-stage RISC-V processor**, covering pipeline stages, hazard handling, and performance optimization.
+
 
 ---
 
