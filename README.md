@@ -88,9 +88,4 @@ This repo documents my work on designing and implementing a **32-bit multi-stage
 
 Whether it’s **design**, **verification**, or **documentation**, I’m open to contributing to interesting projects in the open-source silicon space. Drop a mail or check out my repositories if you're building something cool in the digital design domain.
 
----
 
-<!-- Smooth ending -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=22FFDA&center=true&vCenter=true&width=440&lines=Let’s+build+clean+RTL+.;Let’s+verify+with+precision.;Let’s+design+what’s+next.">
-</p>
