@@ -43,10 +43,20 @@ I’m a passionate digital design enthusiast specializing in **RTL design**, **h
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaVenkataRamana&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaVenkataRamana&theme=tokyonight&hide_border=true" width="49%">
+  <a href="https://github.com/AdithyaVenkataRamana">
+    <img align="center" src="https://streak-stats.demolab.com/?user=AdithyaVenkataRamana&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/AdithyaVenkataRamana">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdithyaVenkataRamana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+  </a>
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=AdithyaVenkataRamana&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
 ---
 
 ##  Inspiration & Philosophy
