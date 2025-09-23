@@ -50,7 +50,7 @@ I’m a passionate digital design enthusiast specializing in **RTL design**, **h
 
 <p align="center">
   <a href="https://github.com/AdithyaVenkataRamana">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdithyaVenkataRamana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdithyaVenkataRamana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="400" />
   </a>
 </p>
 
