@@ -44,12 +44,6 @@ I’m a passionate digital design enthusiast specializing in **RTL design**, **h
 
 <p align="center">
   <a href="https://github.com/AdithyaVenkataRamana">
-    <img align="center" src="https://streak-stats.demolab.com/?user=AdithyaVenkataRamana&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AdithyaVenkataRamana">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdithyaVenkataRamana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="400" />
   </a>
 </p>
