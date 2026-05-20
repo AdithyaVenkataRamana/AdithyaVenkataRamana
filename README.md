@@ -26,7 +26,7 @@ I’m a passionate digital design enthusiast specializing in **RTL design**, **h
 <p align="center">
   <img src="https://img.shields.io/badge/RTL%20Design-Verilog%2FVHDL-blue?style=for-the-badge&logo=intel&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/SystemVerilog-Verification-orange?style=for-the-badge" height="35">
-  <img src="https://img.shields.io/badge/Synthesis-ASIC%20Flow-critical?style=for-the-badge&logo=synopsys&logoColor=white" height="35">
+
 </p>
 
 
@@ -45,25 +45,10 @@ I’m a passionate digital design enthusiast specializing in **RTL design**, **h
 </p>
 ---
 
-##  Inspiration & Philosophy
-
-> "Hardware is the canvas. RTL is the paint. Innovation is the masterpiece."
-
-- **Precision over guesswork:** Logic doesn’t lie—only your testbench might.
-- **Optimization mindset:** Area, power, timing—it’s always a 3-way dance.
-- **Always learning:** Whether it’s SystemVerilog classes or the RISC-V spec, there’s always more to decode.
-- **Love for debugging:** What most fear, I find oddly satisfying—be it timing violations or assertion fails.
-
----
-
 
 ##  Featured Projects
 
 ###  [Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor](https://github.com/AdithyaVenkataRamana/Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor&theme=tokyonight" width="400">
-</p>
 
 This repo documents my work on designing and implementing a **32-bit multi-stage RISC-V processor**, covering pipeline stages, hazard handling, and performance optimization.
 
