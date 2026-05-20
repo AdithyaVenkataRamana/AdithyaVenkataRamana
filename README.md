@@ -10,7 +10,7 @@
 
 I’m a passionate digital design enthusiast specializing in **RTL design**, **hardware verification**, and **FPGA-based development**. My journey revolves around bringing logic to life using **Verilog**, **SystemVerilog**, and **VHDL**—with a strong focus on performance, optimization, and reusability.
 
-- Currently diving deeper into **SystemVerilog testbenches**, **UVM methodology**, and **synthesis-aware design**.
+
 - Hands-on with **ASIC workflows**, **RTL simulation**, and **FPGA implementations** on platforms like Artix-7.
 - Always open to contributing to open-source VLSI tools and verification environments.
 - Frequently prototyping digital systems from scratch and verifying functionality through waveform analysis and constrained-random testing.
@@ -29,14 +29,6 @@ I’m a passionate digital design enthusiast specializing in **RTL design**, **h
   <img src="https://img.shields.io/badge/Synthesis-ASIC%20Flow-critical?style=for-the-badge&logo=synopsys&logoColor=white" height="35">
 </p>
 
----
-
-##  Current Focus Areas
-
-- Designing FSM-based and pipelined datapaths in Verilog
-- Implementing arithmetic-intensive modules with clock gating for power optimization
-- Exploring SystemVerilog assertions and functional coverage
-- Simulating and debugging using **ModelSim**, **Vivado**, and **GTKWave**
 
 ---
 
