@@ -61,20 +61,13 @@
 
 </p>
 
-## Hardware & FPGA
+## Technical Skills
 
-My hands-on FPGA work focuses on building and testing digital systems on real hardware.
+**Programming:**  
+`C` • `Verilog HDL` • `RISC-V Assembly`
 
-**Current hardware experience:**
+**Tools:**  
+`Xilinx Vivado` • `Xilinx ISE` • `Cadence Virtuoso`
 
-- Xilinx Spartan-6 FPGA
-- XC6SLX9
-- Xilinx ISE 14.7
-- JTAG programming
-- RTL synthesis
-- Implementation
-- Bitstream generation
-- On-board hardware testing
-
----
-
+**FPGA Boards:**  
+`Nexys 4 DDR` • `Spartan-6`
