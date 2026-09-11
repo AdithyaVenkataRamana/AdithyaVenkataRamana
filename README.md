@@ -34,7 +34,6 @@
 `Xilinx ISE` • `Vivado` • `Icarus Verilog` • `GTKWave`  • `Ripes` • `Git`
 
 ---
----
 
 ## Featured Projects
 
