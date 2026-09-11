@@ -39,23 +39,27 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AdithyaVenkataRamana/Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor&theme=tokyonight&hide_border=true" />
-  </a>
 
-  <a href="https://github.com/AdithyaVenkataRamana/Bank_Vault_Lock_Controller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Bank_Vault_Lock_Controller&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/AdithyaVenkataRamana/Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor">
+<img src="https://img.shields.io/badge/32--bit%20Multi--stage%20RISC--V%20Processor-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/AdithyaVenkataRamana/Bank_Vault_Lock_Controller">
+<img src="https://img.shields.io/badge/Bank%20Vault%20Lock%20Controller-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/AdithyaVenkataRamana/Pulse-Width-Modulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Pulse-Width-Modulation&theme=tokyonight&hide_border=true" />
-  </a>
 
-  <a href="https://github.com/AdithyaVenkataRamana/Digital_Logic_Design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Digital_Logic_Design&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/AdithyaVenkataRamana/Pulse-Width-Modulation">
+<img src="https://img.shields.io/badge/Pulse--Width--Modulation-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/AdithyaVenkataRamana/Digital_Logic_Design">
+<img src="https://img.shields.io/badge/Digital%20Logic%20Design-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ## Hardware & FPGA
