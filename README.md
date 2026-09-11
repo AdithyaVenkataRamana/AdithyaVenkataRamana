@@ -34,72 +34,29 @@
 `Xilinx ISE` • `Vivado` • `Icarus Verilog` • `GTKWave`  • `Ripes` • `Git`
 
 ---
+---
 
 ## Featured Projects
 
-### 🧠 RISC-V Processor
+<p align="center">
+  <a href="https://github.com/AdithyaVenkataRamana/Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor&theme=tokyonight&hide_border=true" />
+  </a>
 
-**[Design and Implementation of 32-bit Multi-stage RISC-V Processor](https://github.com/AdithyaVenkataRamana/Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor)**
+  <a href="https://github.com/AdithyaVenkataRamana/Bank_Vault_Lock_Controller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Bank_Vault_Lock_Controller&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-A 32-bit **RV32I-based multi-stage RISC-V processor** implemented using Verilog RTL.
+<p align="center">
+  <a href="https://github.com/AdithyaVenkataRamana/Pulse-Width-Modulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Pulse-Width-Modulation&theme=tokyonight&hide_border=true" />
+  </a>
 
-**Highlights**
-- 5-stage pipeline architecture
-- IF → ID → EX → MEM → WB
-- Hazard detection
-- Data forwarding
-- Load-use stall handling
-- Branch/control hazard handling
-- RTL simulation and verification
-
----
-
-### 🔐 Bank Vault Lock Controller
-
-**[Bank Vault Lock Controller](https://github.com/AdithyaVenkataRamana/Bank_Vault_Lock_Controller)**
-
-A digital security system implemented using **Verilog RTL**, designed to model the control logic of a bank vault locking mechanism.
-
-**Focus**
-- Sequential logic
-- Control logic
-- State-based operation
-- FPGA implementation
-
----
-
-### 📐 Pulse Width Modulation
-
-**[Pulse Width Modulation](https://github.com/AdithyaVenkataRamana/Pulse-Width-Modulation)**
-
-A Verilog-based **PWM generator** implemented and tested for FPGA hardware.
-
-**Focus**
-- Counter-based design
-- Duty-cycle control
-- Digital timing
-- FPGA implementation
-
----
-
-### 🔢 Digital Logic Design
-
-**[Digital Logic Design](https://github.com/AdithyaVenkataRamana/Digital_Logic_Design)**
-
-A collection of fundamental digital logic circuits implemented in HDL.
-
-**Includes**
-- Logic Gates
-- Half Adder
-- Full Adder
-- Full Subtractor
-- Multiplexer
-- DeMultiplexer
-- Comparator
-- Gray Code Converter
-- LED Glow
-
----
+  <a href="https://github.com/AdithyaVenkataRamana/Digital_Logic_Design">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdithyaVenkataRamana&repo=Digital_Logic_Design&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ## Hardware & FPGA
 
