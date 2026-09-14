@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adithya Venkata Ramana 👋</h1>
+<h1 align="center">Hi, I'm Adithya Venkata Ramana </h1>
 
 <p align="center">
   <b>RTL Design • FPGA • Digital Logic • RISC-V</b>
@@ -10,7 +10,7 @@
 
 
 
-📬 **Email:** `adithyavenkataramana022@gmail.com`
+ **Email:** `adithyavenkataramana022@gmail.com`
 
 🔗 **GitHub:** [AdithyaVenkataRamana](https://github.com/AdithyaVenkataRamana)
 
